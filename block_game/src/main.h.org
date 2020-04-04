@@ -1,0 +1,9 @@
+
+
+
+
+/*プロトタイプ宣言*/
+/*void init_var(void);
+void make_block(void);
+void make_field(void);
+void draw_field(void);*/
