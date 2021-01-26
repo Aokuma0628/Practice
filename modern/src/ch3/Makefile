@@ -7,7 +7,7 @@ LDFLAGS :=
 
 
 OBJS	:= $(shell find -type f -name "*.c" | sed -e 's/\.c/\.o/g')
-EXES	:= main
+EXES	:= main.out
 
 .c.o:
 	$(CC) $(CFLAGS)  -c $<
