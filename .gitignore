@@ -2,3 +2,7 @@
 *.gch
 *.out
 *.o
+.history
+.vscode
+main
+*.exe

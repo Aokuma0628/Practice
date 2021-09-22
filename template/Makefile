@@ -1,4 +1,4 @@
-
+#Linux上でビルドする前提
 CC		  := gcc
 INCLUDE := -I./include
 CFLAGS	:= -W -Wall -g  $(INCLUDE)

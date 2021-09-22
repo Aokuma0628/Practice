@@ -31,7 +31,6 @@ int main(void) {
   push(1);
   push(2);
   pop(&p);
-
   printf("1:%d\n", p);
   pop(&p);
   printf("1:%d\n", p);
